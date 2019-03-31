@@ -1,5 +1,5 @@
 # Sentiment classification with a MLP from Udacity Deep Learning Nanodegree
-Sentiment classification & how To "frame problems" for a neural network. 
+Sentiment classification & how to "frame problems" for a neural network. 
 
 ### Problem statement:
 Sentiment classification of movie reviews as positive or negative. Reviews have many words each, resulting in huge input vectors and training/convergence takes a long time. Goal is to improve both training time and accuracy.
